@@ -1,0 +1,11 @@
+[11-05-21 13:25] [INFO] - Pipeline Logger is ready for use
+[11-05-21 13:25] [INFO] - Pipeline Initialized
+[11-05-21 13:25] [INFO] - Pipeline Deserialized
+[11-05-21 13:25] [INFO] - Running Pipeline
+[11-05-21 13:25] [INFO] - Starting preprocessing
+[11-05-21 13:26] [INFO] - Finished preprocessing
+[11-05-21 13:26] [INFO] - ThermalPreprocess pickle is saved
+[11-05-21 13:26] [INFO] - Pipeline Completed
+[11-05-21 13:26] [INFO] - Post processing
+[11-05-21 13:26] [INFO] - Saving output results
+[11-05-21 13:26] [INFO] - Pipeline Finished

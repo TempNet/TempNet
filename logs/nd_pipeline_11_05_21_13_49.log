@@ -1,0 +1,15 @@
+[11-05-21 13:49] [INFO] - Pipeline Logger is ready for use
+[11-05-21 13:49] [INFO] - Pipeline Initialized
+[11-05-21 13:49] [INFO] - Pipeline Deserialized
+[11-05-21 13:49] [INFO] - Running Pipeline
+[11-05-21 13:49] [INFO] - Starting preprocessing
+[11-05-21 13:49] [DEBUG] - 426 files in folder /media/savirlab/New Volume/ThermalData/Temp_Net/from_biomed/data/test/43_132313177404675610/crop
+[11-05-21 13:49] [DEBUG] - 426 files in folder /media/savirlab/New Volume/ThermalData/Temp_Net/from_biomed/data/test/43_132313177404675610/normal
+[11-05-21 13:49] [DEBUG] - 414 files in folder /media/savirlab/New Volume/ThermalData/Temp_Net/from_biomed/data/test/44_132313228442107539/crop
+[11-05-21 13:50] [DEBUG] - 414 files in folder /media/savirlab/New Volume/ThermalData/Temp_Net/from_biomed/data/test/44_132313228442107539/normal
+[11-05-21 13:50] [INFO] - Finished preprocessing
+[11-05-21 13:50] [INFO] - ThermalPreprocess pickle is saved
+[11-05-21 13:50] [INFO] - Pipeline Completed
+[11-05-21 13:50] [INFO] - Post processing
+[11-05-21 13:50] [INFO] - Saving output results
+[11-05-21 13:50] [INFO] - Pipeline Finished

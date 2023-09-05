@@ -1,0 +1,11 @@
+[25-05-21 11:28] [INFO] - Pipeline Logger is ready for use
+[25-05-21 11:28] [INFO] - Pipeline Initialized
+[25-05-21 11:28] [INFO] - Pipeline Deserialized
+[25-05-21 11:28] [INFO] - Running Pipeline
+[25-05-21 11:28] [INFO] - Starting mlp_regressor
+[25-05-21 12:10] [INFO] - Finished mlp_regressor
+[25-05-21 12:10] [INFO] - MLPRegression pickle is saved
+[25-05-21 12:10] [INFO] - Pipeline Completed
+[25-05-21 12:10] [INFO] - Post processing
+[25-05-21 12:10] [INFO] - Saving output results
+[25-05-21 12:10] [INFO] - Pipeline Finished

@@ -1,0 +1,54 @@
+{
+  "ThermalPreprocess": {
+    "BaseAlgo": {
+      "inputData": "None",
+      "outputData": "preprocessing_algo_output_dict",
+      "useSavedData": true
+    },
+    "ThermalPreprocess": {
+      "name": "ThermalPreprocess"
+    },
+    "AlgoParams": {
+      "BaseAlgoParams": {
+        "input_file": "None",
+        "output_file": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test\\preprocess.p"
+      },
+      "ThermalPreprocessParams": {
+        "inputImagePath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test",
+        "avg_rate": "10",
+        "outputPath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test",
+        "notDetectedPath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\notdetected"
+
+      }
+    }
+  },
+
+
+
+  "ThermalPreprocessAdvanced": {
+    "BaseAlgo": {
+      "inputData": "None",
+      "outputData": "preprocessing_advanced_algo_output_dict",
+      "useSavedData": true
+    },
+    "ThermalPreprocessAdvanced": {
+      "name": "ThermalPreprocessAdvanced"
+    },
+    "AlgoParams": {
+      "BaseAlgoParams": {
+        "input_file": "None",
+        "output_file": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test\\preprocess_advanced.p"
+      },
+      "ThermalPreprocessAdvancedParams": {
+        "inputImagePath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test",
+        "outputPath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test",
+        "avg_rate": "10",
+        "Contrast": true,
+        "Colormap": true,
+        "ColormapContrast": true,
+        "Supface": true
+      }
+    }
+  }
+}
+

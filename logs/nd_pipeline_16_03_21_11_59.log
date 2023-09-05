@@ -1,0 +1,11 @@
+[16-03-21 11:59] [INFO] - Pipeline Logger is ready for use
+[16-03-21 11:59] [INFO] - Pipeline Initialized
+[16-03-21 11:59] [INFO] - Pipeline Deserialized
+[16-03-21 11:59] [INFO] - Running Pipeline
+[16-03-21 11:59] [INFO] - Starting extracting NetVLAD descriptors
+[16-03-21 12:11] [INFO] - Finished extracting NetVLAD descriptors
+[16-03-21 12:11] [INFO] - ImageRetrievalExtraction pickle is saved
+[16-03-21 12:11] [INFO] - Pipeline Completed
+[16-03-21 12:11] [INFO] - Post processing
+[16-03-21 12:12] [INFO] - Saving output results
+[16-03-21 12:12] [INFO] - Pipeline Finished

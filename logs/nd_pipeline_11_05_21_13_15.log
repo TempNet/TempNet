@@ -1,0 +1,13 @@
+[11-05-21 13:15] [INFO] - Pipeline Logger is ready for use
+[11-05-21 13:15] [INFO] - Pipeline Initialized
+[11-05-21 13:15] [INFO] - Pipeline Deserialized
+[11-05-21 13:15] [INFO] - Running Pipeline
+[11-05-21 13:15] [INFO] - Starting preprocessing
+[11-05-21 13:15] [DEBUG] - Face not detected in /media/savirlab/New Volume/ThermalData/Temp_Net/from_biomed/data/test/42_132313167237579945
+[11-05-21 13:15] [DEBUG] - Face not detected in /media/savirlab/New Volume/ThermalData/Temp_Net/from_biomed/data/test/43_132313177404675610
+[11-05-21 13:15] [INFO] - Finished preprocessing
+[11-05-21 13:15] [INFO] - ThermalPreprocess pickle is saved
+[11-05-21 13:15] [INFO] - Pipeline Completed
+[11-05-21 13:15] [INFO] - Post processing
+[11-05-21 13:15] [INFO] - Saving output results
+[11-05-21 13:15] [INFO] - Pipeline Finished

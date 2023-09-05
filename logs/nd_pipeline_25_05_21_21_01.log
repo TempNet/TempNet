@@ -1,0 +1,13 @@
+[25-05-21 21:01] [INFO] - Pipeline Logger is ready for use
+[25-05-21 21:01] [INFO] - Pipeline Initialized
+[25-05-21 21:01] [INFO] - Pipeline Deserialized
+[25-05-21 21:01] [INFO] - Running Pipeline
+[25-05-21 21:01] [INFO] - Starting extracting ResNet descriptors
+[25-05-21 21:02] [DEBUG] - patient ID: 42_132313167237579945
+[25-05-21 21:02] [DEBUG] - patient ID: 43_132313177404675610
+[25-05-21 21:02] [INFO] - Finished extracting ResNet descriptors
+[25-05-21 21:02] [INFO] - ResNetExtraction pickle is saved
+[25-05-21 21:02] [INFO] - Pipeline Completed
+[25-05-21 21:02] [INFO] - Post processing
+[25-05-21 21:02] [INFO] - Saving output results
+[25-05-21 21:02] [INFO] - Pipeline Finished

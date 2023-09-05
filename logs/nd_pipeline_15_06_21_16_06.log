@@ -1,0 +1,6 @@
+[15-06-21 16:06] [INFO] - Pipeline Logger is ready for use
+[15-06-21 16:06] [INFO] - Pipeline Initialized
+[15-06-21 16:06] [INFO] - Pipeline Deserialized
+[15-06-21 16:06] [INFO] - Running Pipeline
+[15-06-21 16:06] [INFO] - Starting extracting ResNet descriptors
+[15-06-21 16:06] [DEBUG] - patient ID: 42_132313167237579945

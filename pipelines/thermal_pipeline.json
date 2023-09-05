@@ -1,0 +1,27 @@
+{
+  "ImageRetrievalExtraction": {
+    "BaseAlgo": {
+      "inputData": "None",
+      "outputData": "image_retrival",
+      "useSavedData": true
+    },
+    "ImageRetrievalExtraction": {
+      "name": "ImageRetrievalExtraction"
+    },
+    "AlgoParams": {
+      "BaseAlgoParams": {
+        "input_file": "/home/nati/git/output_pipelines/thermal/image_retrival.p",
+        "output_file": "/home/nati/git/output_pipelines/thermal/image_retrival2.p"
+      },
+      "ImageRetrievalExtractionParams": {
+        "image_retrieval_model_path": "/home/nati/git/nd_pipeline/models/pretrained_vgg16_pitts30k_netvlad_from_matlab.pth",
+        "nv_corr_score": 0.3,
+        "inputImagePath": "/home/nati/files/tempnet/",
+        "keyframes_file": "/home/nati/files/tempnet_keyframes.csv",
+        "outputPath": "/home/nati/git/output_pipelines/thermal/",
+        "save_embedding_file": true,
+        "save_file_name": "/home/nati/git/output_pipelines/thermal/desc_thermal.csv"
+      }
+    }
+  }
+}

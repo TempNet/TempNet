@@ -1,0 +1,32 @@
+{
+  "ResNetExtraction": {
+    "BaseAlgo": {
+      "inputData": "None",
+      "outputData": "resnet_algo_output_dict",
+      "useSavedData": true
+    },
+    "ResNetExtraction": {
+      "name": "ResNetExtraction"
+    },
+    "AlgoParams": {
+      "BaseAlgoParams": {
+        "input_file": "None",
+        "output_file": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\output_pipelines\\thermal\\resnet\\resnet101.p"
+      },
+      "ResNetExtractionParams": {
+        "model_type": "resnet101",
+        "inputImagePath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\test",
+        "patients_data_file": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\patients data frame.xlsx",
+        "img_manipulation_type": "Avg10",
+        "outputPath": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\results",
+        "save_embedding_file": true,
+        "pca2D": false,
+        "pca3D": true,
+        "tsne2D" : false,
+        "tsne3D" : false,
+        "n_comp": 3,
+        "full" : false
+      }
+    }
+  }
+}

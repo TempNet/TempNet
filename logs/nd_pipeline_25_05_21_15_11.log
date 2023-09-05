@@ -1,0 +1,12 @@
+[25-05-21 15:11] [INFO] - Pipeline Logger is ready for use
+[25-05-21 15:11] [INFO] - Pipeline Initialized
+[25-05-21 15:11] [INFO] - Pipeline Deserialized
+[25-05-21 15:11] [INFO] - Running Pipeline
+[25-05-21 15:11] [INFO] - Starting preprocessing
+[25-05-21 15:11] [DEBUG] - 416 files in folder C:\Users\Ami\Desktop\sivan\Project\test\42_132313167237579945\crop
+[25-05-21 15:11] [DEBUG] - 416 files in folder C:\Users\Ami\Desktop\sivan\Project\test\42_132313167237579945\normal
+[25-05-21 15:11] [DEBUG] - 426 files in folder C:\Users\Ami\Desktop\sivan\Project\test\43_132313177404675610\crop
+[25-05-21 15:12] [DEBUG] - 426 files in folder C:\Users\Ami\Desktop\sivan\Project\test\43_132313177404675610\normal
+[25-05-21 15:12] [INFO] - Finished preprocessing
+[25-05-21 15:12] [INFO] - ThermalPreprocess pickle is saved
+[25-05-21 15:12] [INFO] - Starting preprocessing_advanced

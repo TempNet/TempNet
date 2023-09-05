@@ -1,0 +1,25 @@
+{
+  "MLPClassification": {
+    "BaseAlgo": {
+      "inputData": "None",
+      "outputData": "MLPClassification",
+      "useSavedData": true
+    },
+    "MLPClassification": {
+      "name": "MLPClassification"
+    },
+    "AlgoParams": {
+      "BaseAlgoParams": {
+        "input_file": "None",
+        "output_file": "/home/nati/git/output_pipelines/thermal/mlp_classifier.p"
+      },
+      "MLPMLPClassificationParams": {
+        "train_csv_path": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\resnet-101-sup-face_contrast_train(0.8).csv",
+        "test_csv_path": "C:\\Users\\Ami\\Desktop\\sivan\\Project\\resnet-101-sup-face_contrast_test(0.2).csv",
+   		"hidden_layer_sizes": "(256,128,64)",
+		"activation": "relu",
+		"max_iter": "sgd"
+      }
+    }
+  }
+}
